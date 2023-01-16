@@ -31,6 +31,7 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
 #
 
 ## Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
