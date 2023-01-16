@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Filigee">
-    <img src="https://user-images.githubusercontent.com/121239324/212741247-11c831ff-aa9a-45d8-9281-a92bcfb3b31a.png" alt="Bradley Hagger" /></a>
+    <img src="https://user-images.githubusercontent.com/121239324/212745459-f74d5eed-eeda-41c6-91ec-c886cd429db9.png" alt="Bradley Hagger" /></a>
 </p>
 
 <p align="center">
