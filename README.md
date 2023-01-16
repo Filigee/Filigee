@@ -50,7 +50,6 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
       </p>
       <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
       <br />
@@ -69,7 +68,6 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
       <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
@@ -88,7 +86,6 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
       </p>
       <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
