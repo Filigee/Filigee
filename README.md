@@ -1,4 +1,4 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/Filigee">
+    <img src="https://www.canva.com/design/DAFX2G8bCF8/ZuER2yIMID3w6CKoJ6VC6A/view?utm_content=DAFX2G8bCF8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Bradley Hagger" /></a>
 </p>
