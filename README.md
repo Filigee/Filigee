@@ -30,8 +30,8 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
 
 #
 
-### Projects
-<table bordercolor="#66b2b2">
+## Projects
+<table bordercolor="#f66361">
   
   <tr>
     <td width="50%" valign="top">
