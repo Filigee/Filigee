@@ -30,7 +30,7 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
 
 #
 
-<h1 align="left">Projects</h1>
+### Projects
 <table bordercolor="#66b2b2">
   
   <tr>
