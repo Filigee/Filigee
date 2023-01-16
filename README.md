@@ -27,7 +27,7 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <br />
 
----
+#
 
 <h1 align="left">Projects</h1>
 <table bordercolor="#66b2b2">
