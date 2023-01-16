@@ -31,7 +31,7 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
 #
 
 ## Projects
-<table border=1 bordercolor=#f66361>
+<table border=1 border-color=#f66361>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travelara.org</h3>
