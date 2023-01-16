@@ -9,3 +9,5 @@
 
 #
 
+I'm a full-stack developer taking sparks of inspiration and bringing them to life, one line of code at a time. All coding projects are built from the ground up, from planning to designing all the way through to solving problems with code. I'm constantly looking to challenge myself and take my development skills to the next level.
+
