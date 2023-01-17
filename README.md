@@ -102,7 +102,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
             <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
           </a>
         </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML, CSS</strong> - Responsive QR-Code design</p>
     </td>
   </tr>
 </table>
