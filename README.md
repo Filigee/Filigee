@@ -38,7 +38,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Tellstones</h3>
       <br />
       <a target="_blank" href="https://filigee.github.io/tellstones_game/">
-        <img src="https://user-images.githubusercontent.com/121239324/212930161-b540920f-ed3e-46a3-adcb-ec27c8d862d7.PNG" width="100%" alt="Tellstones"/>
+        <img src="https://user-images.githubusercontent.com/121239324/212930161-b540920f-ed3e-46a3-adcb-ec27c8d862d7.PNG" width="100%" height="100px" alt="Tellstones"/>
       </a>
       <br />
       <p align="center">
