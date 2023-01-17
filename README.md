@@ -43,7 +43,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <br />
       <p align="center">
         <a href="https://github.com/Filigee/tellstones_game" target="_blank">
-          <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repo-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+          <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repo-orange?style=for-the-badge&logoColor=white&logo=repo"/>
         </a>  
         <a href="https://filigee.github.io/tellstones_game/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
