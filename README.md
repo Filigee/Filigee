@@ -106,4 +106,3 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
     </td>
   </tr>
 </table>
-![Tellstones]()
