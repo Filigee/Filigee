@@ -74,7 +74,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Order-Summary Design</h3>
       <br />
       <a target="_blank" href="https://filigee.github.io/order_summary_design/#">
-        <img src="https://user-images.githubusercontent.com/121239324/212941349-86cfc6af-6280-482e-9c18-01e1cfdb1475.PNG" width="100%" alt="order-summary"/>
+        <img src="https://user-images.githubusercontent.com/121239324/212952486-52e9101c-2d90-4c18-bd2d-1d085fae455a.png" width="100%" alt="order-summary"/>
       </a>
       <br />
       <p align="center">
