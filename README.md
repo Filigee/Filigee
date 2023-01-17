@@ -71,17 +71,17 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Order-Summary Design</h3>
       <br />
-      <a target="_blank" href="https://shawncharles.com">
-        <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+      <a target="_blank" href="https://filigee.github.io/order_summary_design/#">
+        <img src="https://user-images.githubusercontent.com/121239324/212941349-86cfc6af-6280-482e-9c18-01e1cfdb1475.PNG" width="100%" alt="Portfolio"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+        <a href="https://github.com/Filigee/order_summary_design" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/Repo-orange?style=for-the-badge&logoColor=white&logo=repo"/>
         </a>
-        <a href="http://shawncharles.com" target="_blank">
+        <a href="https://filigee.github.io/order_summary_design/#" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
