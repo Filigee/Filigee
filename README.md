@@ -55,7 +55,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Rummy Card Game</h3>
       <br />
       <a target="_blank" href="https://filigee.github.io/rummy_card_game/">
-        <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        <img src="images/gif2.gif" width="100%"  alt="rummy card game"/>
       </a>
       <br />
       <p align="center">
@@ -74,7 +74,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Order-Summary Design</h3>
       <br />
       <a target="_blank" href="https://filigee.github.io/order_summary_design/#">
-        <img src="https://user-images.githubusercontent.com/121239324/212941349-86cfc6af-6280-482e-9c18-01e1cfdb1475.PNG" width="100%" alt="Portfolio"/>
+        <img src="https://user-images.githubusercontent.com/121239324/212941349-86cfc6af-6280-482e-9c18-01e1cfdb1475.PNG" width="100%" alt="order-summary"/>
       </a>
       <br />
       <p align="center">
@@ -85,20 +85,20 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+      <p><strong>HTML, CSS</strong> - A responsive order-summary page design. Used to practise BEM naming conventions and using CSS variables.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">QR-Code Design</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://filigee.github.io/qr_code_design/">
+          <img src="https://user-images.githubusercontent.com/121239324/212943676-184edb90-cc0a-4cfa-9cc7-03f511a3946e.PNG" width="100%" alt="qr-code"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+          <a href="https://github.com/Filigee/qr_code_design" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/Repo-orange?style=for-the-badge&logoColor=white&logo=repo"/>
           </a>
-          <a href="https://poke-matchcards.netlify.app" target="_blank">
+          <a href="https://filigee.github.io/qr_code_design/" target="_blank">
             <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
           </a>
         </p>
@@ -106,3 +106,4 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
     </td>
   </tr>
 </table>
+
