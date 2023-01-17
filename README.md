@@ -91,7 +91,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">QR-Code Design</h3>
         <br />
         <a target="_blank" href="https://filigee.github.io/qr_code_design/">
-          <img src="https://user-images.githubusercontent.com/121239324/212946036-f8f015d7-7ca1-49a1-989b-e819412bc1a5.PNG" width="100%" height="300px" alt="qr-code"/>
+          <img src="https://user-images.githubusercontent.com/121239324/212946036-f8f015d7-7ca1-49a1-989b-e819412bc1a5.PNG" width="100%" alt="qr-code"/>
         </a>
         <br />
         <p align="center">
