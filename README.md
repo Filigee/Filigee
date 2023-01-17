@@ -35,17 +35,17 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Tellstones</h3>
       <br />
-      <a target="_blank" href="http://travelara.herokuapp.com">
-        <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+      <a target="_blank" href="https://filigee.github.io/tellstones_game/">
+        <img src="https://user-images.githubusercontent.com/121239324/212930161-b540920f-ed3e-46a3-adcb-ec27c8d862d7.PNG" width="100%" alt="Tellstones"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+        <a href="https://github.com/Filigee/tellstones_game" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
         </a>  
-        <a href="http://travelara.herokuapp.com" target="_blank">
+        <a href="https://filigee.github.io/tellstones_game/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
       </p>
@@ -106,3 +106,4 @@ I'm a full-stack developer taking sparks of inspiration and bringing them to lif
     </td>
   </tr>
 </table>
+![Tellstones]()
