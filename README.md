@@ -55,7 +55,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Rummy Card Game</h3>
       <br />
       <a target="_blank" href="https://filigee.github.io/rummy_card_game/">
-        <img src="images/gif2.gif" width="100%"  alt="rummy card game"/>
+        <img src="https://user-images.githubusercontent.com/121239324/213214355-5ce2e774-f254-4f7b-9daf-5a509e760079.png" width="100%"  alt="rummy card game"/>
       </a>
       <br />
       <p align="center">
@@ -66,7 +66,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
-      <p><strong>JavaScript, HTML, CSS</strong> - A single-player version of one of my favourite card games, Rummy!</p>
+      <p><strong>JavaScript, HTML, CSS</strong> - A single-player version of one of my favourite card games, Rummy! Using <a href="https://deckofcardsapi.com/" target="_blank">deckofcardsapi.com</a></p>
     </td>
   </tr>
   <tr>
