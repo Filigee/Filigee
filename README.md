@@ -66,7 +66,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
-      <p><strong>JavaScript, HTML, CSS</strong> - A single-player version of one of my favourite card games, Rummy! The program was made using <a href="https://deckofcardsapi.com/" target="_blank">deckofcardsapi.com</a>. Eventually, I hope to expand it further into a full game that can host 2 players simultaneously!</p>
+      <p><strong>JavaScript, HTML, CSS</strong> - A single-player version of one of my favourite card games, Rummy! The program was made using <a href="https://deckofcardsapi.com/" target="_blank">deckofcardsapi.com</a>. Eventually, I hope to expand the project further into a full game that can host 2 players simultaneously!</p>
     </td>
   </tr>
   <tr>
