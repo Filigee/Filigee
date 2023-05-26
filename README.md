@@ -43,7 +43,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Tellstones</h3>
       <br />
       <a target="_blank" href="https://github.com/Filigee/todo-list_crud_app">
-        <img src="https://github.com/Filigee/Filigee/assets/121239324/7d4b15a7-10ac-4bd4-8334-63db88687202" width="100%" height="100%" alt="Todos"/>
+        <img src="https://github.com/Filigee/Filigee/assets/121239324/87b6aa6e-6067-4fa5-b220-2cef33d72bda" width="100%" height="100%" alt="Todos"/>
       </a>
       <br />
       <p align="center">
@@ -111,3 +111,4 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
     </td>
   </tr>
 </table>
+
