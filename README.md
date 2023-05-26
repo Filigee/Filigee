@@ -40,7 +40,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Tellstones</h3>
+      <h3 align="center">To-do CRUD app</h3>
       <br />
       <a target="_blank" href="https://github.com/Filigee/todo-list_crud_app">
         <img src="https://github.com/Filigee/Filigee/assets/121239324/87b6aa6e-6067-4fa5-b220-2cef33d72bda" width="100%" height="100%" alt="Todos"/>
@@ -54,7 +54,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
-      <p><strong>JavaScript, HTML, CSS</strong> To-do list CRUD web app created using Express, MongoDB, EJS</p>
+      <p><strong>Express, MongoDB, EJS</strong> To-do list CRUD web app you can use to track what you need to get done, set importance and completed tasks and then remove those completed tasks seemlessly.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rummy Card Game</h3>
