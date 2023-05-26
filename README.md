@@ -41,7 +41,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
     <td width="50%" valign="top">
       <h3 align="center">Tellstones</h3>
       <br />
-      <a target="_blank" href="https://filigee.github.io/tellstones_game/">
+      <a target="_blank" href="https://github.com/Filigee/todo-list_crud_app">
         <img src="https://user-images.githubusercontent.com/121239324/212947355-4027949b-a57b-4ab3-a0c0-14cac6ff073b.PNG" width="100%" height="100%" alt="Tellstones"/>
       </a>
       <br />
