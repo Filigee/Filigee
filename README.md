@@ -42,7 +42,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       <h3 align="center">Tellstones</h3>
       <br />
       <a target="_blank" href="https://github.com/Filigee/todo-list_crud_app">
-        <img src="https://user-images.githubusercontent.com/121239324/212947355-4027949b-a57b-4ab3-a0c0-14cac6ff073b.PNG" width="100%" height="100%" alt="Tellstones"/>
+        <img src="https://github.com/Filigee/Filigee/assets/121239324/81629c31-c7b3-47e2-b68c-e69cd9362cb3" width="100%" height="100%" alt="Todos"/>
       </a>
       <br />
       <p align="center">
@@ -53,7 +53,7 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
-      <p><strong>JavaScript, HTML, CSS</strong> - Recreation of a boardgame that I like to play with friends and family.</p>
+      <p><strong>JavaScript, HTML, CSS</strong> To-do list CRUD web app created using Express, MongoDB, EJS</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rummy Card Game</h3>
