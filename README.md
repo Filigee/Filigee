@@ -47,10 +47,10 @@ I'm a <strong>full-stack developer</strong> taking sparks of inspiration and bri
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/Filigee/tellstones_game" target="_blank">
+        <a href="https://github.com/Filigee/todo-list_crud_app" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/Repo-orange?style=for-the-badge&logoColor=white&logo=repo"/>
         </a>  
-        <a href="https://filigee.github.io/tellstones_game/" target="_blank">
+        <a href="https://todo-list-2-aag6.onrender.com/" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/Website-purple?style=for-the-badge&logoColor=white&logo=browser"/>
         </a>
       </p>
